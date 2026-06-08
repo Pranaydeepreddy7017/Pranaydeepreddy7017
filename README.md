@@ -5,11 +5,10 @@
 
 ### 🚀 About Me
 
-- 🎓 M.S. in Computer Science @ **UMBC** (graduating May 2026)
-- 🔭 Currently building **CBT-LLM** — a multi-agent RAG platform with NLI verification and dual LLM-as-Judge evaluation *(paper under review at ACII 2026)*
+- 🎓 M.S. in Computer Science @ **UMBC** (May 2026)
 - 🧠 Interested in retrieval-augmented generation, multi-agent systems, and applied NLP
 - 💼 Previously DevOps / Software Engineer @ **HDFC Bank**
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · your.email@example.com
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/pranay255949) · pranaydeepreddy7017@gmail.com
 
 ---
 

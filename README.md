@@ -34,7 +34,7 @@
 | --- | --- | --- |
 | [**CBT-LLM**](https://github.com/Pranaydeepreddy7017/cbt-llm) | Multi-agent, reward-based RAG platform for action-oriented CBT, with NLI verification and dual LLM-as-Judge evaluation | Python, RAG, NLI |
 | [**FactMed**](https://github.com/Pranaydeepreddy7017/FactMed-Retrieval-Augmented-Generation-System-for-Medical-Queries) | Retrieval-Augmented Generation system for grounded, fact-checked medical query answering | Python, Jupyter, RAG |
-| [**CareerPathFinder**](https://github.com/Pranaydeepreddy7017/CareerPathFinder) | Tool for mapping skills and roles to guide career decisions | Python |
+| [**CareerPathFinder**](https://github.com/Pranaydeepreddy7017/CareerPathFinder) | Tool for mapping skills and roles to guide career decisions | Python | Machine Learning | TypeScript | Neo4j | 
 | [**Twitter Bookmark Search**](https://github.com/Pranaydeepreddy7017/twitter-bookmark-search) | Searchable interface over saved bookmarks | JavaScript |
 
 ---

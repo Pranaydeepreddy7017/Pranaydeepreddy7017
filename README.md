@@ -7,7 +7,7 @@
 
 - 🎓 M.S. in Computer Science @ **UMBC** (May 2026)
 - 🧠 Interested in retrieval-augmented generation, multi-agent systems, and applied NLP
-- 💼 Previously DevOps / Software Engineer @ **HDFC Bank**
+- 💼 Previously Software Engineer @ **HDFC Bank**
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/pranay255949) · pranaydeepreddy7017@gmail.com
 
 ---
